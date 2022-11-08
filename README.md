@@ -1,17 +1,26 @@
-<img src="https://cdn.jsdelivr.net/gh/abtp2/gw@main/rc(icon).jpg">
+<img src="https://cdn.jsdelivr.net/gh/abtp2/gw@main/rc-icon.png">
 <h1>Rollercss</h1>
-<p>A modern front-end library based on CSS and Javascript</p>
-●<i>  A very new front-end library</i><br>
-●<i>  Designed with in-built components</i><br>
-●<i>  A best alternative to tailwind and bootstrap</i><br>
-●<i>  Not exactly, but more then tailwind</i><br>
-●<i>  A very lightweight and easier to use</i><br>
-●<i>  Here how, where you can join our community:</i><br>
-♤------<a href="https://t.me/rollercss">Telegram</a><br>
-♤------<a href="https://youtube.com/channel/UCLoiTyWe84H8BoKE_19qTIA">YouTube</a><br>
-♤------<a href="https://github.com/rollercss">Github</a><br>
-♤------<a href="https://github.com/rollercss">Discord</a<br>
 
+A modern front-end library based on CSS and Javascript. A quality and better alternative to Tailwind and Bootstrap.
+
+> **Features of rollercss**
+* Easy to understand and use.
+* No built-in theme 🤮 like Bootstrap.
+* Use 130+ colors ❤ for better UI&UX.
+* Built-in components like Bootstrap.
+* Flex-box system is gorgeous 😍.
+* In Built many libraries are there.
+* Use in-built 2k+ icons 🤩 on your website, and more...... <br>
+Visit the website of rollercss to know more <br>
+https://rollercss.netlify.app
+<br>
+
+> **Creator of rollercss**
+
+`Ashutosh Pandey` is a creator of rollercss.
+* [GitHub](https://github.com/abtp2)
+* [Telegram](https://t.me/A_S_H_U_T_O_S_H_P_A_N_D_E_Y)
+* [YouTube](https://youtube.com/channel/UCLoiTyWe84H8BoKE_19qTIA)
 
 
 
